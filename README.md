@@ -1,3 +1,4 @@
+### README
 This repository contains simulation environments and Python code extending the Rapid Motor Adaptation (RMA) framework for robotic manipulation tasks.
 
 Developed by Johnson Ofori Amanfo as part of an MPhil project at Kwame Nkrumah University of Science and Technology (KNUST), Ghana.
